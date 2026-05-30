@@ -1,6 +1,6 @@
 package DAY2;
 import java.util.Scanner;
-public class question3 {
+public class question7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your number : ");
